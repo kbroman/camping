@@ -6,8 +6,6 @@ hike-in camping.)
 
 ---
 
-<hr/>
-
 To the extent possible under law,
 [Karl Broman](http://github.com/kbroman)
 has waived all copyright and related or neighboring rights to
